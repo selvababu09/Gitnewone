@@ -3,6 +3,10 @@ package org.git;
 public class GitNew {
 	
 
+	private void priya() {
+System.out.println("priya added");
+	}
+
 	private void Bala() {
 System.out.println("Bala added");
 	}
